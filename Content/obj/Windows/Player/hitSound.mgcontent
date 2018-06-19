@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/tiennguuyen/Desktop/TNMT-1511849/HalloweenStory SourceCode/HalloweenStory/Content/Player/hitSound.wav</SourceFile>
+  <SourceTime>2016-11-16T05:12:18+07:00</SourceTime>
+  <DestFile>C:/Users/tiennguuyen/Desktop/TNMT-1511849/HalloweenStory SourceCode/HalloweenStory/Content/bin/Windows/Player/hitSound.xnb</DestFile>
+  <DestTime>2016-11-17T02:52:21.9577011+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T13:36:08+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T13:36:08+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
